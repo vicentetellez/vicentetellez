@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Vicente Téllez Leiva
 
-<!--
-**vicentetellez/vicentetellez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Sobre mí
 
-Here are some ideas to get you started:
+* Estudiante de Ingeniería de Ejecución en Computación e Informática en la Universidad del Bío Bío.
+* Aplico mis conocimientos técnicos para **identificar y desarrollar soluciones de automatización** que optimicen procesos y resuelvan problemas de manera eficiente.
+* Fuera de la programación, aplico la **lógica de sistemas** y la **planificación detallada** en mi disciplina deportiva: el Powerlifting. 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologías y Herramientas
+
+| Categoría | Herramientas/Lenguajes |
+| :--- | :--- |
+| **Lenguajes Clave** | C y Java |
+| **Automatización/Datos** | Excel (Fórmulas Avanzadas), Lógica de Programación |
+| **Otros** | GitHub, [Manejo de Word/Excel/Demás] |
+
+### 🚀 Proyectos Destacados
+
+* **[DPDA_AutomataDePilaDeterministico_Simulator_C]**
+* **[Tradicional_Vs_Divide_y_Venceras_Vs_Strassen2_MultiplicacionDeMatrices_C]**
+
+### 📫 Contacto
+
+* **Correo:** vicente.tellez2401@alumnos.ubiobio.cl
